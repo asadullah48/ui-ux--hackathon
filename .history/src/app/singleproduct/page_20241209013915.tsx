@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { Star } from "lucide-react";
+import { ShoppingCart, Star } from "lucide-react";
 import Header from "@/components/header";
 
 

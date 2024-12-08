@@ -2,6 +2,7 @@
 
 import { Trash2 } from 'lucide-react'
 import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
 import Header from '@/components/header'
 import Image from 'next/image'
 

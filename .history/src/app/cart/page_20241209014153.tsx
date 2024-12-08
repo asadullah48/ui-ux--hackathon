@@ -14,7 +14,7 @@ export default function CartPage() {
       <section className="relative h-[316px] bg-gray-100 flex flex-col items-center justify-center">
         <Image src="/blog.png" alt="Hero Image" layout="fill" objectFit="cover" />
         <div className="text-center space-y-4 z-[1]">
-          <img src="/log.png" alt="Logo" className="mx-auto mb-4" />
+          <mg src="/log.png" alt="Logo" className="mx-auto mb-4" />
           <h1 className="text-4xl md:text-5xl font-medium">Cart</h1>
           <div className="flex items-center gap-2 text-sm">
             <span className="font-medium">Home</span>
